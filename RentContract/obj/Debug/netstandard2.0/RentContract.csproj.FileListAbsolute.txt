@@ -1,0 +1,7 @@
+/Users/user/Projects/GQW_Contracts/RentContract/bin/Debug/netstandard2.0/RentContract.deps.json
+/Users/user/Projects/GQW_Contracts/RentContract/bin/Debug/netstandard2.0/RentContract.dll
+/Users/user/Projects/GQW_Contracts/RentContract/bin/Debug/netstandard2.0/RentContract.pdb
+/Users/user/Projects/GQW_Contracts/RentContract/obj/Debug/netstandard2.0/RentContract.AssemblyInfoInputs.cache
+/Users/user/Projects/GQW_Contracts/RentContract/obj/Debug/netstandard2.0/RentContract.AssemblyInfo.cs
+/Users/user/Projects/GQW_Contracts/RentContract/obj/Debug/netstandard2.0/RentContract.dll
+/Users/user/Projects/GQW_Contracts/RentContract/obj/Debug/netstandard2.0/RentContract.pdb

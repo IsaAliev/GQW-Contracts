@@ -1,0 +1,7 @@
+/Users/user/Projects/GQW_Contracts/GQW_Contracts_0/bin/Debug/netstandard2.0/Creator.deps.json
+/Users/user/Projects/GQW_Contracts/GQW_Contracts_0/bin/Debug/netstandard2.0/Creator.dll
+/Users/user/Projects/GQW_Contracts/GQW_Contracts_0/bin/Debug/netstandard2.0/Creator.pdb
+/Users/user/Projects/GQW_Contracts/GQW_Contracts_0/obj/Debug/netstandard2.0/Creator.AssemblyInfoInputs.cache
+/Users/user/Projects/GQW_Contracts/GQW_Contracts_0/obj/Debug/netstandard2.0/Creator.AssemblyInfo.cs
+/Users/user/Projects/GQW_Contracts/GQW_Contracts_0/obj/Debug/netstandard2.0/Creator.dll
+/Users/user/Projects/GQW_Contracts/GQW_Contracts_0/obj/Debug/netstandard2.0/Creator.pdb

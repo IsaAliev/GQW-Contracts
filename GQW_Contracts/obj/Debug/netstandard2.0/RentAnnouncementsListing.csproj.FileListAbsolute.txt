@@ -1,0 +1,8 @@
+/Users/user/Projects/GQW_Contracts/GQW_Contracts/bin/Debug/netstandard2.0/RentAnnouncementsListing.deps.json
+/Users/user/Projects/GQW_Contracts/GQW_Contracts/bin/Debug/netstandard2.0/RentAnnouncementsListing.dll
+/Users/user/Projects/GQW_Contracts/GQW_Contracts/bin/Debug/netstandard2.0/RentAnnouncementsListing.pdb
+/Users/user/Projects/GQW_Contracts/GQW_Contracts/obj/Debug/netstandard2.0/RentAnnouncementsListing.csprojAssemblyReference.cache
+/Users/user/Projects/GQW_Contracts/GQW_Contracts/obj/Debug/netstandard2.0/RentAnnouncementsListing.AssemblyInfoInputs.cache
+/Users/user/Projects/GQW_Contracts/GQW_Contracts/obj/Debug/netstandard2.0/RentAnnouncementsListing.AssemblyInfo.cs
+/Users/user/Projects/GQW_Contracts/GQW_Contracts/obj/Debug/netstandard2.0/RentAnnouncementsListing.dll
+/Users/user/Projects/GQW_Contracts/GQW_Contracts/obj/Debug/netstandard2.0/RentAnnouncementsListing.pdb

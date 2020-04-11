@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RentContract/RentContract.cs">
+    <Files>
+      <File FileName="GQW_Contracts_0/RentContractCreatorContract.cs" Line="125" Column="23" />
+      <File FileName="RentContract/RentContract.cs" Line="10" Column="56" />
+      <File FileName="GQW_Contracts/RentAnnouncementsListingContract.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GQW_Contracts" expanded="True">
+            <Node name="Creator" expanded="True" />
+            <Node name="RentAnnouncementsListing" expanded="True" />
+            <Node name="RentContract" expanded="True">
+              <Node name="RentContract.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

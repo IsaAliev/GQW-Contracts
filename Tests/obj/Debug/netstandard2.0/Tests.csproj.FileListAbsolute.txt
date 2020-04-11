@@ -1,0 +1,7 @@
+/Users/user/Projects/GQW_Contracts/Tests/bin/Debug/netstandard2.0/Tests.deps.json
+/Users/user/Projects/GQW_Contracts/Tests/bin/Debug/netstandard2.0/Tests.dll
+/Users/user/Projects/GQW_Contracts/Tests/bin/Debug/netstandard2.0/Tests.pdb
+/Users/user/Projects/GQW_Contracts/Tests/obj/Debug/netstandard2.0/Tests.AssemblyInfoInputs.cache
+/Users/user/Projects/GQW_Contracts/Tests/obj/Debug/netstandard2.0/Tests.AssemblyInfo.cs
+/Users/user/Projects/GQW_Contracts/Tests/obj/Debug/netstandard2.0/Tests.dll
+/Users/user/Projects/GQW_Contracts/Tests/obj/Debug/netstandard2.0/Tests.pdb
