@@ -129,7 +129,7 @@ namespace Neo.SmartContract
             byte[] contractHash = RentContract("create", contractArgs);
 
             AllowClaim((byte[])request[txHashIdxInRequest], ownerPubKey);
-            //DeleteRequest(ownerPubKey, requestID); все таки работает а вот с верхним что то не то
+            DeleteRequest(ownerPubKey, requestID);
             Runtime.Log("OK");
             Runtime.Notify(contractHash);
 
